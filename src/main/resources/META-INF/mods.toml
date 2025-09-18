@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+
+[[mods]]
+modId="cassie"
+version="0.1.0.3"
+displayName="C.A.S.S.I.E (SCP:SL TTS)"
+credits="SCP:SL"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/cassie"
+logoFile="logo.png"
+authors="5UP3R TH30 B4G"
+description='''
+TTS from SCP:Secret Lab (aka C.A.S.S.I.E)
+'''
+
+[[dependencies.cassie]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

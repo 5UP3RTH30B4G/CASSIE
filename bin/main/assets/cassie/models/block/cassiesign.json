@@ -1,0 +1,8 @@
+{
+  "parent": "cassie:custom/cassie",
+  "textures": {
+    "all": "cassie:blocks/image_2024-11-18_102001122",
+    "particle": "cassie:blocks/image_2024-11-18_102001122",
+    "0": "cassie:blocks/image_2024-11-18_102001122"
+  }
+}

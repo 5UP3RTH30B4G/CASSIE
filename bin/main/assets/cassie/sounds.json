@@ -1,0 +1,8663 @@
+{
+  "bg_4": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_4",
+        "stream": true
+      }
+    ]
+  },
+  "bg_5": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_5",
+        "stream": true
+      }
+    ]
+  },
+  "bg_6": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_6",
+        "stream": true
+      }
+    ]
+  },
+  "bg_7": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_7",
+        "stream": true
+      }
+    ]
+  },
+  "bg_8": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_8",
+        "stream": true
+      }
+    ]
+  },
+  "bg_9": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_10",
+        "stream": true
+      }
+    ]
+  },
+  "bg_10": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_10",
+        "stream": true
+      }
+    ]
+  },
+  "bg_11": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_11",
+        "stream": true
+      }
+    ]
+  },
+  "bg_12": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_12",
+        "stream": true
+      }
+    ]
+  },
+  "bg_13": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_13",
+        "stream": true
+      }
+    ]
+  },
+  "bg_14": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_14",
+        "stream": true
+      }
+    ]
+  },
+  "bg_15": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_15",
+        "stream": true
+      }
+    ]
+  },
+  "bg_16": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_16",
+        "stream": true
+      }
+    ]
+  },
+  "bg_17": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_17",
+        "stream": true
+      }
+    ]
+  },
+  "bg_18": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_18",
+        "stream": true
+      }
+    ]
+  },
+  "bg_19": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_19",
+        "stream": true
+      }
+    ]
+  },
+  "bg_20": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_20",
+        "stream": true
+      }
+    ]
+  },
+  "bg_21": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_21",
+        "stream": true
+      }
+    ]
+  },
+  "bg_22": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_22",
+        "stream": true
+      }
+    ]
+  },
+  "bg_23": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_23",
+        "stream": true
+      }
+    ]
+  },
+  "bg_24": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_24",
+        "stream": true
+      }
+    ]
+  },
+  "bg_25": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_25",
+        "stream": true
+      }
+    ]
+  },
+  "bg_26": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_26",
+        "stream": true
+      }
+    ]
+  },
+  "bg_27": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_27",
+        "stream": true
+      }
+    ]
+  },
+  "bg_28": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_28",
+        "stream": true
+      }
+    ]
+  },
+  "bg_29": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_29",
+        "stream": true
+      }
+    ]
+  },
+  "bg_30": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_30",
+        "stream": true
+      }
+    ]
+  },
+  "bg_31": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_31",
+        "stream": true
+      }
+    ]
+  },
+  "bg_32": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_32",
+        "stream": true
+      }
+    ]
+  },
+  "bg_33": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_33",
+        "stream": true
+      }
+    ]
+  },
+  "bg_34": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_34",
+        "stream": true
+      }
+    ]
+  },
+  "bg_35": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_35",
+        "stream": true
+      }
+    ]
+  },
+  "bg_36": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_36",
+        "stream": true
+      }
+    ]
+  },
+  "bg_37": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_37",
+        "stream": true
+      }
+    ]
+  },
+  "bg_38": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_38",
+        "stream": true
+      }
+    ]
+  },
+  "bg_39": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_39",
+        "stream": true
+      }
+    ]
+  },
+  "bg_40": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cassie:bg_40",
+        "stream": true
+      }
+    ]
+  },
+  "a": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_a",
+        "stream": false
+      }
+    ]
+  },
+  "b": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_b",
+        "stream": false
+      }
+    ]
+  },
+  "c": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_c",
+        "stream": false
+      }
+    ]
+  },
+  "d": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_d",
+        "stream": false
+      }
+    ]
+  },
+  "e": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_e",
+        "stream": false
+      }
+    ]
+  },
+  "f": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_f",
+        "stream": false
+      }
+    ]
+  },
+  "g": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_g",
+        "stream": false
+      }
+    ]
+  },
+  "h": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_h",
+        "stream": false
+      }
+    ]
+  },
+  "i": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_i",
+        "stream": false
+      }
+    ]
+  },
+  "ish": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_ish",
+        "stream": false
+      }
+    ]
+  },
+  "j": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_j",
+        "stream": false
+      }
+    ]
+  },
+  "k": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_k",
+        "stream": false
+      }
+    ]
+  },
+  "l": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_l",
+        "stream": false
+      }
+    ]
+  },
+  "like": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_like",
+        "stream": false
+      }
+    ]
+  },
+  "m": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_m",
+        "stream": false
+      }
+    ]
+  },
+  "n": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_n",
+        "stream": false
+      }
+    ]
+  },
+  "o": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_o",
+        "stream": false
+      }
+    ]
+  },
+  "p": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_p",
+        "stream": false
+      }
+    ]
+  },
+  "q": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_q",
+        "stream": false
+      }
+    ]
+  },
+  "s": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_s",
+        "stream": false
+      }
+    ]
+  },
+  "t": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_t",
+        "stream": false
+      }
+    ]
+  },
+  "u": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_u",
+        "stream": false
+      }
+    ]
+  },
+  "v": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_v",
+        "stream": false
+      }
+    ]
+  },
+  "w": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_w",
+        "stream": false
+      }
+    ]
+  },
+  "x": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_x",
+        "stream": false
+      }
+    ]
+  },
+  "y": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_y",
+        "stream": false
+      }
+    ]
+  },
+  "z": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_z",
+        "stream": false
+      }
+    ]
+  },
+  "able": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:able",
+        "stream": false
+      }
+    ]
+  },
+  "about": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:about",
+        "stream": false
+      }
+    ]
+  },
+  "above": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:above",
+        "stream": false
+      }
+    ]
+  },
+  "absolute": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:absolute",
+        "stream": false
+      }
+    ]
+  },
+  "accepted": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:accepted",
+        "stream": false
+      }
+    ]
+  },
+  "access": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:access",
+        "stream": false
+      }
+    ]
+  },
+  "acid": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:acid",
+        "stream": false
+      }
+    ]
+  },
+  "across": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:across",
+        "stream": false
+      }
+    ]
+  },
+  "activate": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:activate",
+        "stream": false
+      }
+    ]
+  },
+  "activated": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:activated",
+        "stream": false
+      }
+    ]
+  },
+  "activating": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:activating",
+        "stream": false
+      }
+    ]
+  },
+  "activation": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:activation",
+        "stream": false
+      }
+    ]
+  },
+  "activity": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:activity",
+        "stream": false
+      }
+    ]
+  },
+  "address": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:address",
+        "stream": false
+      }
+    ]
+  },
+  "administer": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:administer",
+        "stream": false
+      }
+    ]
+  },
+  "administered": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:administered",
+        "stream": false
+      }
+    ]
+  },
+  "adrenaline": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:adrenaline",
+        "stream": false
+      }
+    ]
+  },
+  "advanced": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:advanced",
+        "stream": false
+      }
+    ]
+  },
+  "advise": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:advise",
+        "stream": false
+      }
+    ]
+  },
+  "again": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:again",
+        "stream": false
+      }
+    ]
+  },
+  "against": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:against",
+        "stream": false
+      }
+    ]
+  },
+  "agent": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:agent",
+        "stream": false
+      }
+    ]
+  },
+  "aid": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:aid",
+        "stream": false
+      }
+    ]
+  },
+  "airlock": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:airlock",
+        "stream": false
+      }
+    ]
+  },
+  "alarm": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:alarm",
+        "stream": false
+      }
+    ]
+  },
+  "alert": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:alert",
+        "stream": false
+      }
+    ]
+  },
+  "alive": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:alive",
+        "stream": false
+      }
+    ]
+  },
+  "all": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:all",
+        "stream": false
+      }
+    ]
+  },
+  "all_scp_secured": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:all_scp_secured",
+        "stream": false
+      }
+    ]
+  },
+  "alpha": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:alpha",
+        "stream": false
+      }
+    ]
+  },
+  "already": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:already",
+        "stream": false
+      }
+    ]
+  },
+  "also": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:also",
+        "stream": false
+      }
+    ]
+  },
+  "always": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:always",
+        "stream": false
+      }
+    ]
+  },
+  "am": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:am",
+        "stream": false
+      }
+    ]
+  },
+  "amount": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:amount",
+        "stream": false
+      }
+    ]
+  },
+  "amplitude": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:amplitude",
+        "stream": false
+      }
+    ]
+  },
+  "an": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:an",
+        "stream": false
+      }
+    ]
+  },
+  "analog": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:analog",
+        "stream": false
+      }
+    ]
+  },
+  "analysis": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:analysis",
+        "stream": false
+      }
+    ]
+  },
+  "and": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:and",
+        "stream": false
+      }
+    ]
+  },
+  "anomaly": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:anomaly",
+        "stream": false
+      }
+    ]
+  },
+  "anouncement": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:anouncement",
+        "stream": false
+      }
+    ]
+  },
+  "answer": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:answer",
+        "stream": false
+      }
+    ]
+  },
+  "any": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:any",
+        "stream": false
+      }
+    ]
+  },
+  "approach": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:approach",
+        "stream": false
+      }
+    ]
+  },
+  "april": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:april",
+        "stream": false
+      }
+    ]
+  },
+  "aquired": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:aquired",
+        "stream": false
+      }
+    ]
+  },
+  "are": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:are",
+        "stream": false
+      }
+    ]
+  },
+  "area": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:area",
+        "stream": false
+      }
+    ]
+  },
+  "armory": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:armory",
+        "stream": false
+      }
+    ]
+  },
+  "around": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:around",
+        "stream": false
+      }
+    ]
+  },
+  "arrest": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:arrest",
+        "stream": false
+      }
+    ]
+  },
+  "arrival": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:arrival",
+        "stream": false
+      }
+    ]
+  },
+  "as": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:as",
+        "stream": false
+      }
+    ]
+  },
+  "at": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:at",
+        "stream": false
+      }
+    ]
+  },
+  "attack": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:attack",
+        "stream": false
+      }
+    ]
+  },
+  "attempt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:attempt",
+        "stream": false
+      }
+    ]
+  },
+  "attention": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:attention",
+        "stream": false
+      }
+    ]
+  },
+  "august": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:august",
+        "stream": false
+      }
+    ]
+  },
+  "authorized": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:authorized",
+        "stream": false
+      }
+    ]
+  },
+  "automatic": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:automatic",
+        "stream": false
+      }
+    ]
+  },
+  "autonomic": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:autonomic",
+        "stream": false
+      }
+    ]
+  },
+  "autonomous": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:autonomous",
+        "stream": false
+      }
+    ]
+  },
+  "available": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:available",
+        "stream": false
+      }
+    ]
+  },
+  "avoid": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:avoid",
+        "stream": false
+      }
+    ]
+  },
+  "awating_recontainment": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:awating_recontainment",
+        "stream": false
+      }
+    ]
+  },
+  "away": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:away",
+        "stream": false
+      }
+    ]
+  },
+  "back": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:back",
+        "stream": false
+      }
+    ]
+  },
+  "backup": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:backup",
+        "stream": false
+      }
+    ]
+  },
+  "bad": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:bad",
+        "stream": false
+      }
+    ]
+  },
+  "ban": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:ban",
+        "stream": false
+      }
+    ]
+  },
+  "bank": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:bank",
+        "stream": false
+      }
+    ]
+  },
+  "base": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:base",
+        "stream": false
+      }
+    ]
+  },
+  "basic": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:basic",
+        "stream": false
+      }
+    ]
+  },
+  "battery": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:battery",
+        "stream": false
+      }
+    ]
+  },
+  "be": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:be",
+        "stream": false
+      }
+    ]
+  },
+  "because": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:because",
+        "stream": false
+      }
+    ]
+  },
+  "been": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:been",
+        "stream": false
+      }
+    ]
+  },
+  "begun": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:begun",
+        "stream": false
+      }
+    ]
+  },
+  "behavior": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:behavior",
+        "stream": false
+      }
+    ]
+  },
+  "behind": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:behind",
+        "stream": false
+      }
+    ]
+  },
+  "being": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:being",
+        "stream": false
+      }
+    ]
+  },
+  "believe": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:believe",
+        "stream": false
+      }
+    ]
+  },
+  "below": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:below",
+        "stream": false
+      }
+    ]
+  },
+  "beside": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:beside",
+        "stream": false
+      }
+    ]
+  },
+  "best": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:best",
+        "stream": false
+      }
+    ]
+  },
+  "beta": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:beta",
+        "stream": false
+      }
+    ]
+  },
+  "between": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:between",
+        "stream": false
+      }
+    ]
+  },
+  "big": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:big",
+        "stream": false
+      }
+    ]
+  },
+  "billiard": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:billiard",
+        "stream": false
+      }
+    ]
+  },
+  "biological": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:biological",
+        "stream": false
+      }
+    ]
+  },
+  "black": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:black",
+        "stream": false
+      }
+    ]
+  },
+  "blast": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:blast",
+        "stream": false
+      }
+    ]
+  },
+  "blue": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:blue",
+        "stream": false
+      }
+    ]
+  },
+  "board": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:board",
+        "stream": false
+      }
+    ]
+  },
+  "body": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:body",
+        "stream": false
+      }
+    ]
+  },
+  "both": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:both",
+        "stream": false
+      }
+    ]
+  },
+  "bottom": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:bottom",
+        "stream": false
+      }
+    ]
+  },
+  "breach": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:breach",
+        "stream": false
+      }
+    ]
+  },
+  "break": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:break",
+        "stream": false
+      }
+    ]
+  },
+  "breaker": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:breaker",
+        "stream": false
+      }
+    ]
+  },
+  "broad": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:broad",
+        "stream": false
+      }
+    ]
+  },
+  "broadcast": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:broadcast",
+        "stream": false
+      }
+    ]
+  },
+  "build": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:build",
+        "stream": false
+      }
+    ]
+  },
+  "built": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:built",
+        "stream": false
+      }
+    ]
+  },
+  "but": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:but",
+        "stream": false
+      }
+    ]
+  },
+  "by": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:by",
+        "stream": false
+      }
+    ]
+  },
+  "byte": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:byte",
+        "stream": false
+      }
+    ]
+  },
+  "cadet": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:cadet",
+        "stream": false
+      }
+    ]
+  },
+  "calm": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:calm",
+        "stream": false
+      }
+    ]
+  },
+  "camera": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:camera",
+        "stream": false
+      }
+    ]
+  },
+  "can": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:can",
+        "stream": false
+      }
+    ]
+  },
+  "cannot": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:cannot",
+        "stream": false
+      }
+    ]
+  },
+  "cant": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:cant",
+        "stream": false
+      }
+    ]
+  },
+  "capture": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:capture",
+        "stream": false
+      }
+    ]
+  },
+  "card": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:card",
+        "stream": false
+      }
+    ]
+  },
+  "cassie": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:cassie",
+        "stream": false
+      }
+    ]
+  },
+  "cast": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:cast",
+        "stream": false
+      }
+    ]
+  },
+  "cause": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:cause",
+        "stream": false
+      }
+    ]
+  },
+  "caution": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:caution",
+        "stream": false
+      }
+    ]
+  },
+  "cease": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:cease",
+        "stream": false
+      }
+    ]
+  },
+  "celsius": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:celsius",
+        "stream": false
+      }
+    ]
+  },
+  "center": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:center",
+        "stream": false
+      }
+    ]
+  },
+  "centi": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:centi",
+        "stream": false
+      }
+    ]
+  },
+  "central": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:central",
+        "stream": false
+      }
+    ]
+  },
+  "chamber": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:chamber",
+        "stream": false
+      }
+    ]
+  },
+  "chaos": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:chaos",
+        "stream": false
+      }
+    ]
+  },
+  "chaosinsurgency": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:chaosinsurgency",
+        "stream": false
+      }
+    ]
+  },
+  "charge": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:charge",
+        "stream": false
+      }
+    ]
+  },
+  "check": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:check",
+        "stream": false
+      }
+    ]
+  },
+  "checkpoint": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:checkpoint",
+        "stream": false
+      }
+    ]
+  },
+  "chi": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:chi",
+        "stream": false
+      }
+    ]
+  },
+  "class": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:class",
+        "stream": false
+      }
+    ]
+  },
+  "classd": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:classd",
+        "stream": false
+      }
+    ]
+  },
+  "clearance": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:clearance",
+        "stream": false
+      }
+    ]
+  },
+  "close": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:close",
+        "stream": false
+      }
+    ]
+  },
+  "closed": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:closed",
+        "stream": false
+      }
+    ]
+  },
+  "code": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:code",
+        "stream": false
+      }
+    ]
+  },
+  "come": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:come",
+        "stream": false
+      }
+    ]
+  },
+  "commander": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:commander",
+        "stream": false
+      }
+    ]
+  },
+  "commencing": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:commencing",
+        "stream": false
+      }
+    ]
+  },
+  "community": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:community",
+        "stream": false
+      }
+    ]
+  },
+  "complete": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:complete",
+        "stream": false
+      }
+    ]
+  },
+  "completed": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:completed",
+        "stream": false
+      }
+    ]
+  },
+  "complex": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:complex",
+        "stream": false
+      }
+    ]
+  },
+  "condition": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:condition",
+        "stream": false
+      }
+    ]
+  },
+  "confirm": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:confirm",
+        "stream": false
+      }
+    ]
+  },
+  "console": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:console",
+        "stream": false
+      }
+    ]
+  },
+  "contain": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:contain",
+        "stream": false
+      }
+    ]
+  },
+  "contained": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:contained",
+        "stream": false
+      }
+    ]
+  },
+  "contained_successfully": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:contained_successfully",
+        "stream": false
+      }
+    ]
+  },
+  "containment": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:containment",
+        "stream": false
+      }
+    ]
+  },
+  "containment_unit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:containment_unit",
+        "stream": false
+      }
+    ]
+  },
+  "contamination": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:contamination",
+        "stream": false
+      }
+    ]
+  },
+  "continue": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:continue",
+        "stream": false
+      }
+    ]
+  },
+  "control": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:control",
+        "stream": false
+      }
+    ]
+  },
+  "cooperate": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:cooperate",
+        "stream": false
+      }
+    ]
+  },
+  "core": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:core",
+        "stream": false
+      }
+    ]
+  },
+  "correct": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:correct",
+        "stream": false
+      }
+    ]
+  },
+  "corrupted": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:corrupted",
+        "stream": false
+      }
+    ]
+  },
+  "corruption": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:corruption",
+        "stream": false
+      }
+    ]
+  },
+  "could": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:could",
+        "stream": false
+      }
+    ]
+  },
+  "course": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:course",
+        "stream": false
+      }
+    ]
+  },
+  "credit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:credit",
+        "stream": false
+      }
+    ]
+  },
+  "critical": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:critical",
+        "stream": false
+      }
+    ]
+  },
+  "current": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:current",
+        "stream": false
+      }
+    ]
+  },
+  "curved": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:curved",
+        "stream": false
+      }
+    ]
+  },
+  "damage": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:damage",
+        "stream": false
+      }
+    ]
+  },
+  "danger": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:danger",
+        "stream": false
+      }
+    ]
+  },
+  "dark": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:dark",
+        "stream": false
+      }
+    ]
+  },
+  "data": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:data",
+        "stream": false
+      }
+    ]
+  },
+  "date": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:date",
+        "stream": false
+      }
+    ]
+  },
+  "day": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:day",
+        "stream": false
+      }
+    ]
+  },
+  "deactivate": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:deactivate",
+        "stream": false
+      }
+    ]
+  },
+  "deactivated": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:deactivated",
+        "stream": false
+      }
+    ]
+  },
+  "dead": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:dead",
+        "stream": false
+      }
+    ]
+  },
+  "deca": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:deca",
+        "stream": false
+      }
+    ]
+  },
+  "december": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:december",
+        "stream": false
+      }
+    ]
+  },
+  "deci": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:deci",
+        "stream": false
+      }
+    ]
+  },
+  "decision": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:decision",
+        "stream": false
+      }
+    ]
+  },
+  "decontamination": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:decontamination",
+        "stream": false
+      }
+    ]
+  },
+  "decrease": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:decrease",
+        "stream": false
+      }
+    ]
+  },
+  "defence": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:defence",
+        "stream": false
+      }
+    ]
+  },
+  "degrees": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:degrees",
+        "stream": false
+      }
+    ]
+  },
+  "delta": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:delta",
+        "stream": false
+      }
+    ]
+  },
+  "denied": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:denied",
+        "stream": false
+      }
+    ]
+  },
+  "designated": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:designated",
+        "stream": false
+      }
+    ]
+  },
+  "destroy": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:destroy",
+        "stream": false
+      }
+    ]
+  },
+  "destroyed": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:destroyed",
+        "stream": false
+      }
+    ]
+  },
+  "destruct": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:destruct",
+        "stream": false
+      }
+    ]
+  },
+  "destructed": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:destructed",
+        "stream": false
+      }
+    ]
+  },
+  "destruction": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:destruction",
+        "stream": false
+      }
+    ]
+  },
+  "detected": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:detected",
+        "stream": false
+      }
+    ]
+  },
+  "detonate": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:detonate",
+        "stream": false
+      }
+    ]
+  },
+  "detonated": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:detonated",
+        "stream": false
+      }
+    ]
+  },
+  "detonating": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:detonating",
+        "stream": false
+      }
+    ]
+  },
+  "detonation": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:detonation",
+        "stream": false
+      }
+    ]
+  },
+  "device": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:device",
+        "stream": false
+      }
+    ]
+  },
+  "diagnostic": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:diagnostic",
+        "stream": false
+      }
+    ]
+  },
+  "did": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:did",
+        "stream": false
+      }
+    ]
+  },
+  "die": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:die",
+        "stream": false
+      }
+    ]
+  },
+  "diesel": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:diesel",
+        "stream": false
+      }
+    ]
+  },
+  "different": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:different",
+        "stream": false
+      }
+    ]
+  },
+  "digital": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:digital",
+        "stream": false
+      }
+    ]
+  },
+  "dimention": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:dimention",
+        "stream": false
+      }
+    ]
+  },
+  "disable": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:disable",
+        "stream": false
+      }
+    ]
+  },
+  "disabled": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:disabled",
+        "stream": false
+      }
+    ]
+  },
+  "disables": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:disables",
+        "stream": false
+      }
+    ]
+  },
+  "discharge": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:discharge",
+        "stream": false
+      }
+    ]
+  },
+  "disease": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:disease",
+        "stream": false
+      }
+    ]
+  },
+  "disengaged": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:disengaged",
+        "stream": false
+      }
+    ]
+  },
+  "distance": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:distance",
+        "stream": false
+      }
+    ]
+  },
+  "divided": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:divided",
+        "stream": false
+      }
+    ]
+  },
+  "division": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:division",
+        "stream": false
+      }
+    ]
+  },
+  "do": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:do",
+        "stream": false
+      }
+    ]
+  },
+  "doctor": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:doctor",
+        "stream": false
+      }
+    ]
+  },
+  "does": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:does",
+        "stream": false
+      }
+    ]
+  },
+  "done": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:done",
+        "stream": false
+      }
+    ]
+  },
+  "door": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:door",
+        "stream": false
+      }
+    ]
+  },
+  "doors": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:doors",
+        "stream": false
+      }
+    ]
+  },
+  "dose": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:dose",
+        "stream": false
+      }
+    ]
+  },
+  "down": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:down",
+        "stream": false
+      }
+    ]
+  },
+  "earth": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:earth",
+        "stream": false
+      }
+    ]
+  },
+  "east": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:east",
+        "stream": false
+      }
+    ]
+  },
+  "ed": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:ed",
+        "stream": false
+      }
+    ]
+  },
+  "effect": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:effect",
+        "stream": false
+      }
+    ]
+  },
+  "either": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:either",
+        "stream": false
+      }
+    ]
+  },
+  "electric": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:electric",
+        "stream": false
+      }
+    ]
+  },
+  "electromagnetism": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:electromagnetism",
+        "stream": false
+      }
+    ]
+  },
+  "elevator": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:elevator",
+        "stream": false
+      }
+    ]
+  },
+  "elevators": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:elevators",
+        "stream": false
+      }
+    ]
+  },
+  "emergency": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:emergency",
+        "stream": false
+      }
+    ]
+  },
+  "empty": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:empty",
+        "stream": false
+      }
+    ]
+  },
+  "enable": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:enable",
+        "stream": false
+      }
+    ]
+  },
+  "enabled": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:enabled",
+        "stream": false
+      }
+    ]
+  },
+  "enables": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:enables",
+        "stream": false
+      }
+    ]
+  },
+  "end": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:end",
+        "stream": false
+      }
+    ]
+  },
+  "engaged": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:engaged",
+        "stream": false
+      }
+    ]
+  },
+  "engine": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:engine",
+        "stream": false
+      }
+    ]
+  },
+  "enough": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:enough",
+        "stream": false
+      }
+    ]
+  },
+  "enter": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:enter",
+        "stream": false
+      }
+    ]
+  },
+  "entire": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:entire",
+        "stream": false
+      }
+    ]
+  },
+  "entrance": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:entrance",
+        "stream": false
+      }
+    ]
+  },
+  "epsilon": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:epsilon",
+        "stream": false
+      }
+    ]
+  },
+  "equal": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:equal",
+        "stream": false
+      }
+    ]
+  },
+  "equals": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:equals",
+        "stream": false
+      }
+    ]
+  },
+  "error": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:error",
+        "stream": false
+      }
+    ]
+  },
+  "escape": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:escape",
+        "stream": false
+      }
+    ]
+  },
+  "escort": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:escort",
+        "stream": false
+      }
+    ]
+  },
+  "escort2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:escort2",
+        "stream": false
+      }
+    ]
+  },
+  "essential": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:essential",
+        "stream": false
+      }
+    ]
+  },
+  "estimated": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:estimated",
+        "stream": false
+      }
+    ]
+  },
+  "eta": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:eta",
+        "stream": false
+      }
+    ]
+  },
+  "euclid": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:euclid",
+        "stream": false
+      }
+    ]
+  },
+  "evacuate": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:evacuate",
+        "stream": false
+      }
+    ]
+  },
+  "evacuation": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:evacuation",
+        "stream": false
+      }
+    ]
+  },
+  "evasion": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:evasion",
+        "stream": false
+      }
+    ]
+  },
+  "even": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:even",
+        "stream": false
+      }
+    ]
+  },
+  "ever": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:ever",
+        "stream": false
+      }
+    ]
+  },
+  "every": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:every",
+        "stream": false
+      }
+    ]
+  },
+  "evidence": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:evidence",
+        "stream": false
+      }
+    ]
+  },
+  "except": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:except",
+        "stream": false
+      }
+    ]
+  },
+  "exception": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:exception",
+        "stream": false
+      }
+    ]
+  },
+  "exclude": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:exclude",
+        "stream": false
+      }
+    ]
+  },
+  "exclusion": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:exclusion",
+        "stream": false
+      }
+    ]
+  },
+  "execute": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:execute",
+        "stream": false
+      }
+    ]
+  },
+  "executed": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:executed",
+        "stream": false
+      }
+    ]
+  },
+  "executive": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:executive",
+        "stream": false
+      }
+    ]
+  },
+  "exit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:exit",
+        "stream": false
+      }
+    ]
+  },
+  "expiration": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:expiration",
+        "stream": false
+      }
+    ]
+  },
+  "explain": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:explain",
+        "stream": false
+      }
+    ]
+  },
+  "explosion": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:explosion",
+        "stream": false
+      }
+    ]
+  },
+  "explosive": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:explosive",
+        "stream": false
+      }
+    ]
+  },
+  "expunged": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:expunged",
+        "stream": false
+      }
+    ]
+  },
+  "external": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:external",
+        "stream": false
+      }
+    ]
+  },
+  "extinguishment": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:extinguishment",
+        "stream": false
+      }
+    ]
+  },
+  "extremely": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:extremely",
+        "stream": false
+      }
+    ]
+  },
+  "facility": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:facility",
+        "stream": false
+      }
+    ]
+  },
+  "fahrenheit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:fahrenheit",
+        "stream": false
+      }
+    ]
+  },
+  "failed": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:failed",
+        "stream": false
+      }
+    ]
+  },
+  "failure": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:failure",
+        "stream": false
+      }
+    ]
+  },
+  "false": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:false",
+        "stream": false
+      }
+    ]
+  },
+  "far": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:far",
+        "stream": false
+      }
+    ]
+  },
+  "february": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:february",
+        "stream": false
+      }
+    ]
+  },
+  "feel": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:feel",
+        "stream": false
+      }
+    ]
+  },
+  "femur": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:femur",
+        "stream": false
+      }
+    ]
+  },
+  "few": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:few",
+        "stream": false
+      }
+    ]
+  },
+  "field": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:field",
+        "stream": false
+      }
+    ]
+  },
+  "find": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:find",
+        "stream": false
+      }
+    ]
+  },
+  "fine": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:fine",
+        "stream": false
+      }
+    ]
+  },
+  "finished": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:finished",
+        "stream": false
+      }
+    ]
+  },
+  "fire": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:fire",
+        "stream": false
+      }
+    ]
+  },
+  "first": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:first",
+        "stream": false
+      }
+    ]
+  },
+  "for": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:for",
+        "stream": false
+      }
+    ]
+  },
+  "force": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:force",
+        "stream": false
+      }
+    ]
+  },
+  "forward": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:forward",
+        "stream": false
+      }
+    ]
+  },
+  "found": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:found",
+        "stream": false
+      }
+    ]
+  },
+  "foundation": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:foundation",
+        "stream": false
+      }
+    ]
+  },
+  "frequency": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:frequency",
+        "stream": false
+      }
+    ]
+  },
+  "friday": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:friday",
+        "stream": false
+      }
+    ]
+  },
+  "from": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:from",
+        "stream": false
+      }
+    ]
+  },
+  "front": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:front",
+        "stream": false
+      }
+    ]
+  },
+  "fuel": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:fuel",
+        "stream": false
+      }
+    ]
+  },
+  "full": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:full",
+        "stream": false
+      }
+    ]
+  },
+  "g1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:g1",
+        "stream": false
+      }
+    ]
+  },
+  "g2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:g2",
+        "stream": false
+      }
+    ]
+  },
+  "g3": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:g3",
+        "stream": false
+      }
+    ]
+  },
+  "g4": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:g4",
+        "stream": false
+      }
+    ]
+  },
+  "g5": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:g5",
+        "stream": false
+      }
+    ]
+  },
+  "g6": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:g6",
+        "stream": false
+      }
+    ]
+  },
+  "game": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:game",
+        "stream": false
+      }
+    ]
+  },
+  "gamma": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:gamma",
+        "stream": false
+      }
+    ]
+  },
+  "gas": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:gas",
+        "stream": false
+      }
+    ]
+  },
+  "gasoline": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:gasoline",
+        "stream": false
+      }
+    ]
+  },
+  "gate": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:gate",
+        "stream": false
+      }
+    ]
+  },
+  "gates": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:gates",
+        "stream": false
+      }
+    ]
+  },
+  "general": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:general",
+        "stream": false
+      }
+    ]
+  },
+  "generator": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:generator",
+        "stream": false
+      }
+    ]
+  },
+  "generators": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:generators",
+        "stream": false
+      }
+    ]
+  },
+  "get": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:get",
+        "stream": false
+      }
+    ]
+  },
+  "giga": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:giga",
+        "stream": false
+      }
+    ]
+  },
+  "give": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:give",
+        "stream": false
+      }
+    ]
+  },
+  "global": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:global",
+        "stream": false
+      }
+    ]
+  },
+  "go": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:go",
+        "stream": false
+      }
+    ]
+  },
+  "goes": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:goes",
+        "stream": false
+      }
+    ]
+  },
+  "going": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:going",
+        "stream": false
+      }
+    ]
+  },
+  "gone": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:gone",
+        "stream": false
+      }
+    ]
+  },
+  "good": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:good",
+        "stream": false
+      }
+    ]
+  },
+  "got": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:got",
+        "stream": false
+      }
+    ]
+  },
+  "gram": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:gram",
+        "stream": false
+      }
+    ]
+  },
+  "grams": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:grams",
+        "stream": false
+      }
+    ]
+  },
+  "granted": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:granted",
+        "stream": false
+      }
+    ]
+  },
+  "grave": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:grave",
+        "stream": false
+      }
+    ]
+  },
+  "great": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:great",
+        "stream": false
+      }
+    ]
+  },
+  "greater": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:greater",
+        "stream": false
+      }
+    ]
+  },
+  "green": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:green",
+        "stream": false
+      }
+    ]
+  },
+  "grenade": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:grenade",
+        "stream": false
+      }
+    ]
+  },
+  "ground": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:ground",
+        "stream": false
+      }
+    ]
+  },
+  "group": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:group",
+        "stream": false
+      }
+    ]
+  },
+  "guard": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:guard",
+        "stream": false
+      }
+    ]
+  },
+  "gun": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:gun",
+        "stream": false
+      }
+    ]
+  },
+  "hack": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:hack",
+        "stream": false
+      }
+    ]
+  },
+  "half": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:half",
+        "stream": false
+      }
+    ]
+  },
+  "hallway": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:hallway",
+        "stream": false
+      }
+    ]
+  },
+  "hand": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:hand",
+        "stream": false
+      }
+    ]
+  },
+  "hardware": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:hardware",
+        "stream": false
+      }
+    ]
+  },
+  "has": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:has",
+        "stream": false
+      }
+    ]
+  },
+  "have": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:have",
+        "stream": false
+      }
+    ]
+  },
+  "hazard": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:hazard",
+        "stream": false
+      }
+    ]
+  },
+  "he": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:he",
+        "stream": false
+      }
+    ]
+  },
+  "head": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:head",
+        "stream": false
+      }
+    ]
+  },
+  "hear": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:hear",
+        "stream": false
+      }
+    ]
+  },
+  "heavy": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:heavy",
+        "stream": false
+      }
+    ]
+  },
+  "hecto": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:hecto",
+        "stream": false
+      }
+    ]
+  },
+  "helicopter": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:helicopter",
+        "stream": false
+      }
+    ]
+  },
+  "hello": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:hello",
+        "stream": false
+      }
+    ]
+  },
+  "help": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:help",
+        "stream": false
+      }
+    ]
+  },
+  "her": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:her",
+        "stream": false
+      }
+    ]
+  },
+  "here": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:here",
+        "stream": false
+      }
+    ]
+  },
+  "high": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:high",
+        "stream": false
+      }
+    ]
+  },
+  "his": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:his",
+        "stream": false
+      }
+    ]
+  },
+  "hit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:hit",
+        "stream": false
+      }
+    ]
+  },
+  "hour": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:hour",
+        "stream": false
+      }
+    ]
+  },
+  "how": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:how",
+        "stream": false
+      }
+    ]
+  },
+  "human": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:human",
+        "stream": false
+      }
+    ]
+  },
+  "hundred": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:hundred",
+        "stream": false
+      }
+    ]
+  },
+  "identification": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:identification",
+        "stream": false
+      }
+    ]
+  },
+  "identify": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:identify",
+        "stream": false
+      }
+    ]
+  },
+  "if": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:if",
+        "stream": false
+      }
+    ]
+  },
+  "immediate": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:immediate",
+        "stream": false
+      }
+    ]
+  },
+  "immediately": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:immediately",
+        "stream": false
+      }
+    ]
+  },
+  "important": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:important",
+        "stream": false
+      }
+    ]
+  },
+  "in": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:in",
+        "stream": false
+      }
+    ]
+  },
+  "include": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:include",
+        "stream": false
+      }
+    ]
+  },
+  "inclusion": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:inclusion",
+        "stream": false
+      }
+    ]
+  },
+  "incorrect": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:incorrect",
+        "stream": false
+      }
+    ]
+  },
+  "increase": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:increase",
+        "stream": false
+      }
+    ]
+  },
+  "indentified": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:indentified",
+        "stream": false
+      }
+    ]
+  },
+  "infection": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:infection",
+        "stream": false
+      }
+    ]
+  },
+  "information": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:information",
+        "stream": false
+      }
+    ]
+  },
+  "ing": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:ing",
+        "stream": false
+      }
+    ]
+  },
+  "initializing": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:initializing",
+        "stream": false
+      }
+    ]
+  },
+  "initiated": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:initiated",
+        "stream": false
+      }
+    ]
+  },
+  "inside": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:inside",
+        "stream": false
+      }
+    ]
+  },
+  "installation": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:installation",
+        "stream": false
+      }
+    ]
+  },
+  "installed": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:installed",
+        "stream": false
+      }
+    ]
+  },
+  "installing": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:installing",
+        "stream": false
+      }
+    ]
+  },
+  "insurgency": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:insurgency",
+        "stream": false
+      }
+    ]
+  },
+  "insurgent": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:insurgent",
+        "stream": false
+      }
+    ]
+  },
+  "intercom": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:intercom",
+        "stream": false
+      }
+    ]
+  },
+  "interest": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:interest",
+        "stream": false
+      }
+    ]
+  },
+  "internal": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:internal",
+        "stream": false
+      }
+    ]
+  },
+  "intersection": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:intersection",
+        "stream": false
+      }
+    ]
+  },
+  "into": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:into",
+        "stream": false
+      }
+    ]
+  },
+  "intruder": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:intruder",
+        "stream": false
+      }
+    ]
+  },
+  "iota": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:iota",
+        "stream": false
+      }
+    ]
+  },
+  "is": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:is",
+        "stream": false
+      }
+    ]
+  },
+  "it": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:it",
+        "stream": false
+      }
+    ]
+  },
+  "january": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:january",
+        "stream": false
+      }
+    ]
+  },
+  "job": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:job",
+        "stream": false
+      }
+    ]
+  },
+  "join": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:join",
+        "stream": false
+      }
+    ]
+  },
+  "july": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:july",
+        "stream": false
+      }
+    ]
+  },
+  "jump": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:jump",
+        "stream": false
+      }
+    ]
+  },
+  "june": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:june",
+        "stream": false
+      }
+    ]
+  },
+  "just": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:just",
+        "stream": false
+      }
+    ]
+  },
+  "kappa": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:kappa",
+        "stream": false
+      }
+    ]
+  },
+  "keep": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:keep",
+        "stream": false
+      }
+    ]
+  },
+  "kelvin": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:kelvin",
+        "stream": false
+      }
+    ]
+  },
+  "keter": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:keter",
+        "stream": false
+      }
+    ]
+  },
+  "key": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:key",
+        "stream": false
+      }
+    ]
+  },
+  "kill": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:kill",
+        "stream": false
+      }
+    ]
+  },
+  "killer": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:killer",
+        "stream": false
+      }
+    ]
+  },
+  "kilo": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:kilo",
+        "stream": false
+      }
+    ]
+  },
+  "king": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:king",
+        "stream": false
+      }
+    ]
+  },
+  "kit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:kit",
+        "stream": false
+      }
+    ]
+  },
+  "know": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:know",
+        "stream": false
+      }
+    ]
+  },
+  "laboratory": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:laboratory",
+        "stream": false
+      }
+    ]
+  },
+  "lambda": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:lambda",
+        "stream": false
+      }
+    ]
+  },
+  "last": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:last",
+        "stream": false
+      }
+    ]
+  },
+  "leak": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:leak",
+        "stream": false
+      }
+    ]
+  },
+  "leave": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:leave",
+        "stream": false
+      }
+    ]
+  },
+  "left": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:left",
+        "stream": false
+      }
+    ]
+  },
+  "less": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:less",
+        "stream": false
+      }
+    ]
+  },
+  "lethal": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:lethal",
+        "stream": false
+      }
+    ]
+  },
+  "letter": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:letter",
+        "stream": false
+      }
+    ]
+  },
+  "level": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:level",
+        "stream": false
+      }
+    ]
+  },
+  "lieutenant": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:lieutenant",
+        "stream": false
+      }
+    ]
+  },
+  "life": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:life",
+        "stream": false
+      }
+    ]
+  },
+  "light": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:light",
+        "stream": false
+      }
+    ]
+  },
+  "lights": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:lights",
+        "stream": false
+      }
+    ]
+  },
+  "liquefied": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:liquefied",
+        "stream": false
+      }
+    ]
+  },
+  "liquid": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:liquid",
+        "stream": false
+      }
+    ]
+  },
+  "live": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:live",
+        "stream": false
+      }
+    ]
+  },
+  "load": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:load",
+        "stream": false
+      }
+    ]
+  },
+  "local": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:local",
+        "stream": false
+      }
+    ]
+  },
+  "locate": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:locate",
+        "stream": false
+      }
+    ]
+  },
+  "location": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:location",
+        "stream": false
+      }
+    ]
+  },
+  "lock": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:lock",
+        "stream": false
+      }
+    ]
+  },
+  "lockdown": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:lockdown",
+        "stream": false
+      }
+    ]
+  },
+  "look": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:look",
+        "stream": false
+      }
+    ]
+  },
+  "lost": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:lost",
+        "stream": false
+      }
+    ]
+  },
+  "low": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:low",
+        "stream": false
+      }
+    ]
+  },
+  "magnetic": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:magnetic",
+        "stream": false
+      }
+    ]
+  },
+  "main": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:main",
+        "stream": false
+      }
+    ]
+  },
+  "major": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:major",
+        "stream": false
+      }
+    ]
+  },
+  "make": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:make",
+        "stream": false
+      }
+    ]
+  },
+  "malfunction": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:malfunction",
+        "stream": false
+      }
+    ]
+  },
+  "man": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:man",
+        "stream": false
+      }
+    ]
+  },
+  "manager": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:manager",
+        "stream": false
+      }
+    ]
+  },
+  "manual": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:manual",
+        "stream": false
+      }
+    ]
+  },
+  "many": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:many",
+        "stream": false
+      }
+    ]
+  },
+  "march": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:march",
+        "stream": false
+      }
+    ]
+  },
+  "material": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:material",
+        "stream": false
+      }
+    ]
+  },
+  "may": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:may",
+        "stream": false
+      }
+    ]
+  },
+  "me": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:me",
+        "stream": false
+      }
+    ]
+  },
+  "med": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:med",
+        "stream": false
+      }
+    ]
+  },
+  "medical": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:medical",
+        "stream": false
+      }
+    ]
+  },
+  "medium": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:medium",
+        "stream": false
+      }
+    ]
+  },
+  "mega": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:mega",
+        "stream": false
+      }
+    ]
+  },
+  "memory": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:memory",
+        "stream": false
+      }
+    ]
+  },
+  "men": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:men",
+        "stream": false
+      }
+    ]
+  },
+  "message": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:message",
+        "stream": false
+      }
+    ]
+  },
+  "meter": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:meter",
+        "stream": false
+      }
+    ]
+  },
+  "meters": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:meters",
+        "stream": false
+      }
+    ]
+  },
+  "micro": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:micro",
+        "stream": false
+      }
+    ]
+  },
+  "mili": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:mili",
+        "stream": false
+      }
+    ]
+  },
+  "military": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:military",
+        "stream": false
+      }
+    ]
+  },
+  "milliard": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:milliard",
+        "stream": false
+      }
+    ]
+  },
+  "million": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:million",
+        "stream": false
+      }
+    ]
+  },
+  "minor": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:minor",
+        "stream": false
+      }
+    ]
+  },
+  "minus": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:minus",
+        "stream": false
+      }
+    ]
+  },
+  "minute": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:minute",
+        "stream": false
+      }
+    ]
+  },
+  "minutes": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:minutes",
+        "stream": false
+      }
+    ]
+  },
+  "mobile": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:mobile",
+        "stream": false
+      }
+    ]
+  },
+  "mobile_task_force_unit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:mobile_task_force_unit",
+        "stream": false
+      }
+    ]
+  },
+  "mode": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:mode",
+        "stream": false
+      }
+    ]
+  },
+  "module": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:module",
+        "stream": false
+      }
+    ]
+  },
+  "monday": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:monday",
+        "stream": false
+      }
+    ]
+  },
+  "month": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:month",
+        "stream": false
+      }
+    ]
+  },
+  "more": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:more",
+        "stream": false
+      }
+    ]
+  },
+  "morphine": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:morphine",
+        "stream": false
+      }
+    ]
+  },
+  "most": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:most",
+        "stream": false
+      }
+    ]
+  },
+  "move": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:move",
+        "stream": false
+      }
+    ]
+  },
+  "mu": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:mu",
+        "stream": false
+      }
+    ]
+  },
+  "much": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:much",
+        "stream": false
+      }
+    ]
+  },
+  "must": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:must",
+        "stream": false
+      }
+    ]
+  },
+  "my": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:my",
+        "stream": false
+      }
+    ]
+  },
+  "name": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:name",
+        "stream": false
+      }
+    ]
+  },
+  "nano": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:nano",
+        "stream": false
+      }
+    ]
+  },
+  "near": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:near",
+        "stream": false
+      }
+    ]
+  },
+  "nearby": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:nearby",
+        "stream": false
+      }
+    ]
+  },
+  "nearest": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:nearest",
+        "stream": false
+      }
+    ]
+  },
+  "necessary": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:necessary",
+        "stream": false
+      }
+    ]
+  },
+  "neck": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:neck",
+        "stream": false
+      }
+    ]
+  },
+  "need": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:need",
+        "stream": false
+      }
+    ]
+  },
+  "negative": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:negative",
+        "stream": false
+      }
+    ]
+  },
+  "neutralize": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:neutralize",
+        "stream": false
+      }
+    ]
+  },
+  "never": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:never",
+        "stream": false
+      }
+    ]
+  },
+  "new": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:new",
+        "stream": false
+      }
+    ]
+  },
+  "next": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:next",
+        "stream": false
+      }
+    ]
+  },
+  "nice": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:nice",
+        "stream": false
+      }
+    ]
+  },
+  "no": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:no",
+        "stream": false
+      }
+    ]
+  },
+  "nominal": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:nominal",
+        "stream": false
+      }
+    ]
+  },
+  "nor": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:nor",
+        "stream": false
+      }
+    ]
+  },
+  "normal": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:normal",
+        "stream": false
+      }
+    ]
+  },
+  "normalize": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:normalize",
+        "stream": false
+      }
+    ]
+  },
+  "north": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:north",
+        "stream": false
+      }
+    ]
+  },
+  "northwood": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:northwood",
+        "stream": false
+      }
+    ]
+  },
+  "not": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:not",
+        "stream": false
+      }
+    ]
+  },
+  "notice": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:notice",
+        "stream": false
+      }
+    ]
+  },
+  "november": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:november",
+        "stream": false
+      }
+    ]
+  },
+  "now": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:now",
+        "stream": false
+      }
+    ]
+  },
+  "nu": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:nu",
+        "stream": false
+      }
+    ]
+  },
+  "nuclear": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:nuclear",
+        "stream": false
+      }
+    ]
+  },
+  "number": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number",
+        "stream": false
+      }
+    ]
+  },
+  "number_0": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_0",
+        "stream": false
+      }
+    ]
+  },
+  "number_1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_1",
+        "stream": false
+      }
+    ]
+  },
+  "number_2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_2",
+        "stream": false
+      }
+    ]
+  },
+  "number_3": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_3",
+        "stream": false
+      }
+    ]
+  },
+  "number_4": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_4",
+        "stream": false
+      }
+    ]
+  },
+  "number_5": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_5",
+        "stream": false
+      }
+    ]
+  },
+  "number_6": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_6",
+        "stream": false
+      }
+    ]
+  },
+  "number_7": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_7",
+        "stream": false
+      }
+    ]
+  },
+  "number_8": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_8",
+        "stream": false
+      }
+    ]
+  },
+  "number_9": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_9",
+        "stream": false
+      }
+    ]
+  },
+  "number_10": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_10",
+        "stream": false
+      }
+    ]
+  },
+  "number_11": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_11",
+        "stream": false
+      }
+    ]
+  },
+  "number_12": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_12",
+        "stream": false
+      }
+    ]
+  },
+  "number_13": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_13",
+        "stream": false
+      }
+    ]
+  },
+  "number_14": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_14",
+        "stream": false
+      }
+    ]
+  },
+  "number_15": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_15",
+        "stream": false
+      }
+    ]
+  },
+  "number_16": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_16",
+        "stream": false
+      }
+    ]
+  },
+  "number_17": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_17",
+        "stream": false
+      }
+    ]
+  },
+  "number_18": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_18",
+        "stream": false
+      }
+    ]
+  },
+  "number_19": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_19",
+        "stream": false
+      }
+    ]
+  },
+  "number_20": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_20",
+        "stream": false
+      }
+    ]
+  },
+  "number_30": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_30",
+        "stream": false
+      }
+    ]
+  },
+  "number_40": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_40",
+        "stream": false
+      }
+    ]
+  },
+  "number_50": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_50",
+        "stream": false
+      }
+    ]
+  },
+  "number_60": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_60",
+        "stream": false
+      }
+    ]
+  },
+  "number_70": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_70",
+        "stream": false
+      }
+    ]
+  },
+  "number_80": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_80",
+        "stream": false
+      }
+    ]
+  },
+  "number_90": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:number_90",
+        "stream": false
+      }
+    ]
+  },
+  "o5": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:o5",
+        "stream": false
+      }
+    ]
+  },
+  "october": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:october",
+        "stream": false
+      }
+    ]
+  },
+  "of": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:of",
+        "stream": false
+      }
+    ]
+  },
+  "off": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:off",
+        "stream": false
+      }
+    ]
+  },
+  "offline": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:offline",
+        "stream": false
+      }
+    ]
+  },
+  "often": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:often",
+        "stream": false
+      }
+    ]
+  },
+  "old": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:old",
+        "stream": false
+      }
+    ]
+  },
+  "omega": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:omega",
+        "stream": false
+      }
+    ]
+  },
+  "omicron": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:omicron",
+        "stream": false
+      }
+    ]
+  },
+  "on": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:on",
+        "stream": false
+      }
+    ]
+  },
+  "once": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:once",
+        "stream": false
+      }
+    ]
+  },
+  "ongoing": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:ongoing",
+        "stream": false
+      }
+    ]
+  },
+  "online": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:online",
+        "stream": false
+      }
+    ]
+  },
+  "only": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:only",
+        "stream": false
+      }
+    ]
+  },
+  "open": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:open",
+        "stream": false
+      }
+    ]
+  },
+  "operate": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:operate",
+        "stream": false
+      }
+    ]
+  },
+  "operation": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:operation",
+        "stream": false
+      }
+    ]
+  },
+  "operational": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:operational",
+        "stream": false
+      }
+    ]
+  },
+  "operative": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:operative",
+        "stream": false
+      }
+    ]
+  },
+  "optimal": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:optimal",
+        "stream": false
+      }
+    ]
+  },
+  "optional": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:optional",
+        "stream": false
+      }
+    ]
+  },
+  "or": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:or",
+        "stream": false
+      }
+    ]
+  },
+  "orange": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:orange",
+        "stream": false
+      }
+    ]
+  },
+  "order": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:order",
+        "stream": false
+      }
+    ]
+  },
+  "organism": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:organism",
+        "stream": false
+      }
+    ]
+  },
+  "other": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:other",
+        "stream": false
+      }
+    ]
+  },
+  "out": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:out",
+        "stream": false
+      }
+    ]
+  },
+  "outof": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:outof",
+        "stream": false
+      }
+    ]
+  },
+  "outside": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:outside",
+        "stream": false
+      }
+    ]
+  },
+  "outtage": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:outtage",
+        "stream": false
+      }
+    ]
+  },
+  "over": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:over",
+        "stream": false
+      }
+    ]
+  },
+  "overall": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:overall",
+        "stream": false
+      }
+    ]
+  },
+  "overcharge": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:overcharge",
+        "stream": false
+      }
+    ]
+  },
+  "overheat": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:overheat",
+        "stream": false
+      }
+    ]
+  },
+  "override": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:override",
+        "stream": false
+      }
+    ]
+  },
+  "pain": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:pain",
+        "stream": false
+      }
+    ]
+  },
+  "panic": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:panic",
+        "stream": false
+      }
+    ]
+  },
+  "partners": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:partners",
+        "stream": false
+      }
+    ]
+  },
+  "password": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:password",
+        "stream": false
+      }
+    ]
+  },
+  "patch": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:patch",
+        "stream": false
+      }
+    ]
+  },
+  "patreon": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:patreon",
+        "stream": false
+      }
+    ]
+  },
+  "pause": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:pause",
+        "stream": false
+      }
+    ]
+  },
+  "paused": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:paused",
+        "stream": false
+      }
+    ]
+  },
+  "pay": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:pay",
+        "stream": false
+      }
+    ]
+  },
+  "people": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:people",
+        "stream": false
+      }
+    ]
+  },
+  "percent": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:percent",
+        "stream": false
+      }
+    ]
+  },
+  "permanent": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:permanent",
+        "stream": false
+      }
+    ]
+  },
+  "person": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:person",
+        "stream": false
+      }
+    ]
+  },
+  "personnel": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:personnel",
+        "stream": false
+      }
+    ]
+  },
+  "petroleum": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:petroleum",
+        "stream": false
+      }
+    ]
+  },
+  "phi": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:phi",
+        "stream": false
+      }
+    ]
+  },
+  "pi": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:pi",
+        "stream": false
+      }
+    ]
+  },
+  "pistol": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:pistol",
+        "stream": false
+      }
+    ]
+  },
+  "plague": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:plague",
+        "stream": false
+      }
+    ]
+  },
+  "please": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:please",
+        "stream": false
+      }
+    ]
+  },
+  "plus": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:plus",
+        "stream": false
+      }
+    ]
+  },
+  "pocket": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:pocket",
+        "stream": false
+      }
+    ]
+  },
+  "positive": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:positive",
+        "stream": false
+      }
+    ]
+  },
+  "possible": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:possible",
+        "stream": false
+      }
+    ]
+  },
+  "potential": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:potential",
+        "stream": false
+      }
+    ]
+  },
+  "power": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:power",
+        "stream": false
+      }
+    ]
+  },
+  "previous": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:previous",
+        "stream": false
+      }
+    ]
+  },
+  "primary": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:primary",
+        "stream": false
+      }
+    ]
+  },
+  "priority": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:priority",
+        "stream": false
+      }
+    ]
+  },
+  "private": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:private",
+        "stream": false
+      }
+    ]
+  },
+  "probability": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:probability",
+        "stream": false
+      }
+    ]
+  },
+  "procedure": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:procedure",
+        "stream": false
+      }
+    ]
+  },
+  "proceed": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:proceed",
+        "stream": false
+      }
+    ]
+  },
+  "process": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:process",
+        "stream": false
+      }
+    ]
+  },
+  "progress": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:progress",
+        "stream": false
+      }
+    ]
+  },
+  "prosecution": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:prosecution",
+        "stream": false
+      }
+    ]
+  },
+  "protect": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:protect",
+        "stream": false
+      }
+    ]
+  },
+  "protection": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:protection",
+        "stream": false
+      }
+    ]
+  },
+  "protocol": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:protocol",
+        "stream": false
+      }
+    ]
+  },
+  "psi": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:psi",
+        "stream": false
+      }
+    ]
+  },
+  "public": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:public",
+        "stream": false
+      }
+    ]
+  },
+  "purge": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:purge",
+        "stream": false
+      }
+    ]
+  },
+  "put": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:put",
+        "stream": false
+      }
+    ]
+  },
+  "query": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:query",
+        "stream": false
+      }
+    ]
+  },
+  "question": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:question",
+        "stream": false
+      }
+    ]
+  },
+  "questioning": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:questioning",
+        "stream": false
+      }
+    ]
+  },
+  "r": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:r",
+        "stream": false
+      }
+    ]
+  },
+  "radiation": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:radiation",
+        "stream": false
+      }
+    ]
+  },
+  "radio": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:radio",
+        "stream": false
+      }
+    ]
+  },
+  "rank": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:rank",
+        "stream": false
+      }
+    ]
+  },
+  "reactivating": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:reactivating",
+        "stream": false
+      }
+    ]
+  },
+  "reactivation": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:reactivation",
+        "stream": false
+      }
+    ]
+  },
+  "reactor": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:reactor",
+        "stream": false
+      }
+    ]
+  },
+  "ready": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:ready",
+        "stream": false
+      }
+    ]
+  },
+  "real": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:real",
+        "stream": false
+      }
+    ]
+  },
+  "really": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:really",
+        "stream": false
+      }
+    ]
+  },
+  "recieve": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:recieve",
+        "stream": false
+      }
+    ]
+  },
+  "recontained": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:recontained",
+        "stream": false
+      }
+    ]
+  },
+  "recontainment": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:recontainment",
+        "stream": false
+      }
+    ]
+  },
+  "red": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:red",
+        "stream": false
+      }
+    ]
+  },
+  "redacted": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:redacted",
+        "stream": false
+      }
+    ]
+  },
+  "rejected": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:rejected",
+        "stream": false
+      }
+    ]
+  },
+  "remaining": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:remaining",
+        "stream": false
+      }
+    ]
+  },
+  "remind": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:remind",
+        "stream": false
+      }
+    ]
+  },
+  "repair": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:repair",
+        "stream": false
+      }
+    ]
+  },
+  "repairing": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:repairing",
+        "stream": false
+      }
+    ]
+  },
+  "repeat": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:repeat",
+        "stream": false
+      }
+    ]
+  },
+  "report": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:report",
+        "stream": false
+      }
+    ]
+  },
+  "require": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:require",
+        "stream": false
+      }
+    ]
+  },
+  "respawn": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:respawn",
+        "stream": false
+      }
+    ]
+  },
+  "respect": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:respect",
+        "stream": false
+      }
+    ]
+  },
+  "restricted": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:restricted",
+        "stream": false
+      }
+    ]
+  },
+  "result": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:result",
+        "stream": false
+      }
+    ]
+  },
+  "resumed": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:resumed",
+        "stream": false
+      }
+    ]
+  },
+  "resurrection": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:resurrection",
+        "stream": false
+      }
+    ]
+  },
+  "retreat": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:retreat",
+        "stream": false
+      }
+    ]
+  },
+  "return": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:return",
+        "stream": false
+      }
+    ]
+  },
+  "revoke": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:revoke",
+        "stream": false
+      }
+    ]
+  },
+  "rifle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:rifle",
+        "stream": false
+      }
+    ]
+  },
+  "right": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:right",
+        "stream": false
+      }
+    ]
+  },
+  "ro": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:ro",
+        "stream": false
+      }
+    ]
+  },
+  "room": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:room",
+        "stream": false
+      }
+    ]
+  },
+  "rough": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:rough",
+        "stream": false
+      }
+    ]
+  },
+  "run": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:run",
+        "stream": false
+      }
+    ]
+  },
+  "running": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:running",
+        "stream": false
+      }
+    ]
+  },
+  "safe": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:safe",
+        "stream": false
+      }
+    ]
+  },
+  "saturday": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:saturday",
+        "stream": false
+      }
+    ]
+  },
+  "saw": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:saw",
+        "stream": false
+      }
+    ]
+  },
+  "say": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:say",
+        "stream": false
+      }
+    ]
+  },
+  "scan": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:scan",
+        "stream": false
+      }
+    ]
+  },
+  "scanning": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:scanning",
+        "stream": false
+      }
+    ]
+  },
+  "science": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:science",
+        "stream": false
+      }
+    ]
+  },
+  "scientist": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:scientist",
+        "stream": false
+      }
+    ]
+  },
+  "scientists": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:scientists",
+        "stream": false
+      }
+    ]
+  },
+  "scp": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:scp",
+        "stream": false
+      }
+    ]
+  },
+  "scp_0_remaining": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:scp_0_remaining",
+        "stream": false
+      }
+    ]
+  },
+  "scp_multiple_remaining": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:scp_multiple_remaining",
+        "stream": false
+      }
+    ]
+  },
+  "scp_subject": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:scp_subject",
+        "stream": false
+      }
+    ]
+  },
+  "scp_subjects": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:scp_subjects",
+        "stream": false
+      }
+    ]
+  },
+  "seal": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:seal",
+        "stream": false
+      }
+    ]
+  },
+  "search": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:search",
+        "stream": false
+      }
+    ]
+  },
+  "second": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:second",
+        "stream": false
+      }
+    ]
+  },
+  "secondary": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:secondary",
+        "stream": false
+      }
+    ]
+  },
+  "seconds": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:seconds",
+        "stream": false
+      }
+    ]
+  },
+  "secret": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:secret",
+        "stream": false
+      }
+    ]
+  },
+  "sector": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:sector",
+        "stream": false
+      }
+    ]
+  },
+  "secure": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:secure",
+        "stream": false
+      }
+    ]
+  },
+  "security": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:security",
+        "stream": false
+      }
+    ]
+  },
+  "see": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:see",
+        "stream": false
+      }
+    ]
+  },
+  "self": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:self",
+        "stream": false
+      }
+    ]
+  },
+  "send": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:send",
+        "stream": false
+      }
+    ]
+  },
+  "senior": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:senior",
+        "stream": false
+      }
+    ]
+  },
+  "sentient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:sentient",
+        "stream": false
+      }
+    ]
+  },
+  "september": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:september",
+        "stream": false
+      }
+    ]
+  },
+  "sequence": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:sequence",
+        "stream": false
+      }
+    ]
+  },
+  "serious": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:serious",
+        "stream": false
+      }
+    ]
+  },
+  "seriously": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:seriously",
+        "stream": false
+      }
+    ]
+  },
+  "serpents": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:serpents",
+        "stream": false
+      }
+    ]
+  },
+  "service": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:service",
+        "stream": false
+      }
+    ]
+  },
+  "she": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:she",
+        "stream": false
+      }
+    ]
+  },
+  "shelter": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:shelter",
+        "stream": false
+      }
+    ]
+  },
+  "shoot": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:shoot",
+        "stream": false
+      }
+    ]
+  },
+  "shooting": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:shooting",
+        "stream": false
+      }
+    ]
+  },
+  "shot": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:shot",
+        "stream": false
+      }
+    ]
+  },
+  "should": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:should",
+        "stream": false
+      }
+    ]
+  },
+  "shut": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:shut",
+        "stream": false
+      }
+    ]
+  },
+  "shutting": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:shutting",
+        "stream": false
+      }
+    ]
+  },
+  "side": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:side",
+        "stream": false
+      }
+    ]
+  },
+  "siera": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:siera",
+        "stream": false
+      }
+    ]
+  },
+  "sigma": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:sigma",
+        "stream": false
+      }
+    ]
+  },
+  "sis": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:sis",
+        "stream": false
+      }
+    ]
+  },
+  "site": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:site",
+        "stream": false
+      }
+    ]
+  },
+  "small": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:small",
+        "stream": false
+      }
+    ]
+  },
+  "snap": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:snap",
+        "stream": false
+      }
+    ]
+  },
+  "so": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:so",
+        "stream": false
+      }
+    ]
+  },
+  "software": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:software",
+        "stream": false
+      }
+    ]
+  },
+  "solid": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:solid",
+        "stream": false
+      }
+    ]
+  },
+  "some": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:some",
+        "stream": false
+      }
+    ]
+  },
+  "somebody": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:somebody",
+        "stream": false
+      }
+    ]
+  },
+  "someone": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:someone",
+        "stream": false
+      }
+    ]
+  },
+  "something": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:something",
+        "stream": false
+      }
+    ]
+  },
+  "sorry": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:sorry",
+        "stream": false
+      }
+    ]
+  },
+  "source": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:source",
+        "stream": false
+      }
+    ]
+  },
+  "south": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:south",
+        "stream": false
+      }
+    ]
+  },
+  "space": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:space",
+        "stream": false
+      }
+    ]
+  },
+  "spotted": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:spotted",
+        "stream": false
+      }
+    ]
+  },
+  "squad": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:squad",
+        "stream": false
+      }
+    ]
+  },
+  "stabilize": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:stabilize",
+        "stream": false
+      }
+    ]
+  },
+  "stable": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:stable",
+        "stream": false
+      }
+    ]
+  },
+  "stand": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:stand",
+        "stream": false
+      }
+    ]
+  },
+  "standard": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:standard",
+        "stream": false
+      }
+    ]
+  },
+  "standby": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:standby",
+        "stream": false
+      }
+    ]
+  },
+  "start": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:start",
+        "stream": false
+      }
+    ]
+  },
+  "started": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:started",
+        "stream": false
+      }
+    ]
+  },
+  "starting": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:starting",
+        "stream": false
+      }
+    ]
+  },
+  "static": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:static",
+        "stream": false
+      }
+    ]
+  },
+  "status": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:status",
+        "stream": false
+      }
+    ]
+  },
+  "stop": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:stop",
+        "stream": false
+      }
+    ]
+  },
+  "stopped": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:stopped",
+        "stream": false
+      }
+    ]
+  },
+  "storage": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:storage",
+        "stream": false
+      }
+    ]
+  },
+  "straight": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:straight",
+        "stream": false
+      }
+    ]
+  },
+  "strictly": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:strictly",
+        "stream": false
+      }
+    ]
+  },
+  "studio": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:studio",
+        "stream": false
+      }
+    ]
+  },
+  "substantial": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:substantial",
+        "stream": false
+      }
+    ]
+  },
+  "subsystem": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:subsystem",
+        "stream": false
+      }
+    ]
+  },
+  "successfully": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:successfully",
+        "stream": false
+      }
+    ]
+  },
+  "sunday": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:sunday",
+        "stream": false
+      }
+    ]
+  },
+  "supply": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:supply",
+        "stream": false
+      }
+    ]
+  },
+  "support": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:support",
+        "stream": false
+      }
+    ]
+  },
+  "supporter": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:supporter",
+        "stream": false
+      }
+    ]
+  },
+  "surface": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:surface",
+        "stream": false
+      }
+    ]
+  },
+  "surge": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:surge",
+        "stream": false
+      }
+    ]
+  },
+  "surprise": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:surprise",
+        "stream": false
+      }
+    ]
+  },
+  "surrender": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:surrender",
+        "stream": false
+      }
+    ]
+  },
+  "survive": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:survive",
+        "stream": false
+      }
+    ]
+  },
+  "survivor": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:survivor",
+        "stream": false
+      }
+    ]
+  },
+  "system": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:system",
+        "stream": false
+      }
+    ]
+  },
+  "systems": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:systems",
+        "stream": false
+      }
+    ]
+  },
+  "t_ed": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:t_ed",
+        "stream": false
+      }
+    ]
+  },
+  "tactical": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:tactical",
+        "stream": false
+      }
+    ]
+  },
+  "take": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:take",
+        "stream": false
+      }
+    ]
+  },
+  "taken": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:taken",
+        "stream": false
+      }
+    ]
+  },
+  "tank": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:tank",
+        "stream": false
+      }
+    ]
+  },
+  "target": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:target",
+        "stream": false
+      }
+    ]
+  },
+  "task": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:task",
+        "stream": false
+      }
+    ]
+  },
+  "tau": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:tau",
+        "stream": false
+      }
+    ]
+  },
+  "team": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:team",
+        "stream": false
+      }
+    ]
+  },
+  "tell": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:tell",
+        "stream": false
+      }
+    ]
+  },
+  "temperature": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:temperature",
+        "stream": false
+      }
+    ]
+  },
+  "temporal": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:temporal",
+        "stream": false
+      }
+    ]
+  },
+  "tera": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:tera",
+        "stream": false
+      }
+    ]
+  },
+  "terminal": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:terminal",
+        "stream": false
+      }
+    ]
+  },
+  "terminate": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:terminate",
+        "stream": false
+      }
+    ]
+  },
+  "terminated": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:terminated",
+        "stream": false
+      }
+    ]
+  },
+  "termination": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:termination",
+        "stream": false
+      }
+    ]
+  },
+  "tesla": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:tesla",
+        "stream": false
+      }
+    ]
+  },
+  "test": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:test",
+        "stream": false
+      }
+    ]
+  },
+  "thank": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:thank",
+        "stream": false
+      }
+    ]
+  },
+  "thanks": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:thanks",
+        "stream": false
+      }
+    ]
+  },
+  "that": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:that",
+        "stream": false
+      }
+    ]
+  },
+  "their": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:their",
+        "stream": false
+      }
+    ]
+  },
+  "them": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:them",
+        "stream": false
+      }
+    ]
+  },
+  "then": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:then",
+        "stream": false
+      }
+    ]
+  },
+  "there": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:there",
+        "stream": false
+      }
+    ]
+  },
+  "thermal": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:thermal",
+        "stream": false
+      }
+    ]
+  },
+  "theta": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:theta",
+        "stream": false
+      }
+    ]
+  },
+  "they": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:they",
+        "stream": false
+      }
+    ]
+  },
+  "thing": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:thing",
+        "stream": false
+      }
+    ]
+  },
+  "think": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:think",
+        "stream": false
+      }
+    ]
+  },
+  "third": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:third",
+        "stream": false
+      }
+    ]
+  },
+  "this": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:this",
+        "stream": false
+      }
+    ]
+  },
+  "though": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:though",
+        "stream": false
+      }
+    ]
+  },
+  "thought": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:thought",
+        "stream": false
+      }
+    ]
+  },
+  "thousand": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:thousand",
+        "stream": false
+      }
+    ]
+  },
+  "threat": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:threat",
+        "stream": false
+      }
+    ]
+  },
+  "through": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:through",
+        "stream": false
+      }
+    ]
+  },
+  "thursday": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:thursday",
+        "stream": false
+      }
+    ]
+  },
+  "time": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:time",
+        "stream": false
+      }
+    ]
+  },
+  "times": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:times",
+        "stream": false
+      }
+    ]
+  },
+  "tminus": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:tminus",
+        "stream": false
+      }
+    ]
+  },
+  "to": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:to",
+        "stream": false
+      }
+    ]
+  },
+  "today": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:today",
+        "stream": false
+      }
+    ]
+  },
+  "tomorrow": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:tomorrow",
+        "stream": false
+      }
+    ]
+  },
+  "too": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:too",
+        "stream": false
+      }
+    ]
+  },
+  "top": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:top",
+        "stream": false
+      }
+    ]
+  },
+  "touch": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:touch",
+        "stream": false
+      }
+    ]
+  },
+  "towards": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:towards",
+        "stream": false
+      }
+    ]
+  },
+  "trillion": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:trillion",
+        "stream": false
+      }
+    ]
+  },
+  "true": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:true",
+        "stream": false
+      }
+    ]
+  },
+  "tuesday": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:tuesday",
+        "stream": false
+      }
+    ]
+  },
+  "turn": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:turn",
+        "stream": false
+      }
+    ]
+  },
+  "turned": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:turned",
+        "stream": false
+      }
+    ]
+  },
+  "turns": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:turns",
+        "stream": false
+      }
+    ]
+  },
+  "twice": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:twice",
+        "stream": false
+      }
+    ]
+  },
+  "un_": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:un_",
+        "stream": false
+      }
+    ]
+  },
+  "unable": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:unable",
+        "stream": false
+      }
+    ]
+  },
+  "unauthorized": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:unauthorized",
+        "stream": false
+      }
+    ]
+  },
+  "unavailable": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:unavailable",
+        "stream": false
+      }
+    ]
+  },
+  "under": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:under",
+        "stream": false
+      }
+    ]
+  },
+  "unit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:unit",
+        "stream": false
+      }
+    ]
+  },
+  "universal": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:universal",
+        "stream": false
+      }
+    ]
+  },
+  "unknown": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:unknown",
+        "stream": false
+      }
+    ]
+  },
+  "unnecessary": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:unnecessary",
+        "stream": false
+      }
+    ]
+  },
+  "unspecified": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:unspecified",
+        "stream": false
+      }
+    ]
+  },
+  "unstable": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:unstable",
+        "stream": false
+      }
+    ]
+  },
+  "until": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:until",
+        "stream": false
+      }
+    ]
+  },
+  "up": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:up",
+        "stream": false
+      }
+    ]
+  },
+  "upsilon": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:upsilon",
+        "stream": false
+      }
+    ]
+  },
+  "us": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:us",
+        "stream": false
+      }
+    ]
+  },
+  "usbdrive": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:usbdrive",
+        "stream": false
+      }
+    ]
+  },
+  "use": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:use",
+        "stream": false
+      }
+    ]
+  },
+  "user": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:user",
+        "stream": false
+      }
+    ]
+  },
+  "using": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:using",
+        "stream": false
+      }
+    ]
+  },
+  "very": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:very",
+        "stream": false
+      }
+    ]
+  },
+  "virus": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:virus",
+        "stream": false
+      }
+    ]
+  },
+  "wait": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:wait",
+        "stream": false
+      }
+    ]
+  },
+  "wall": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:wall",
+        "stream": false
+      }
+    ]
+  },
+  "want": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:want",
+        "stream": false
+      }
+    ]
+  },
+  "warhead": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:warhead",
+        "stream": false
+      }
+    ]
+  },
+  "warning": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:warning",
+        "stream": false
+      }
+    ]
+  },
+  "was": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:was",
+        "stream": false
+      }
+    ]
+  },
+  "way": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:way",
+        "stream": false
+      }
+    ]
+  },
+  "weapon": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:weapon",
+        "stream": false
+      }
+    ]
+  },
+  "weapons": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:weapons",
+        "stream": false
+      }
+    ]
+  },
+  "wednesday": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:wednesday",
+        "stream": false
+      }
+    ]
+  },
+  "week": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:week",
+        "stream": false
+      }
+    ]
+  },
+  "welcome": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:welcome",
+        "stream": false
+      }
+    ]
+  },
+  "well": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:well",
+        "stream": false
+      }
+    ]
+  },
+  "went": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:went",
+        "stream": false
+      }
+    ]
+  },
+  "were": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:were",
+        "stream": false
+      }
+    ]
+  },
+  "west": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:west",
+        "stream": false
+      }
+    ]
+  },
+  "what": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:what",
+        "stream": false
+      }
+    ]
+  },
+  "when": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:when",
+        "stream": false
+      }
+    ]
+  },
+  "where": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:where",
+        "stream": false
+      }
+    ]
+  },
+  "which": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:which",
+        "stream": false
+      }
+    ]
+  },
+  "white": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:white",
+        "stream": false
+      }
+    ]
+  },
+  "who": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:who",
+        "stream": false
+      }
+    ]
+  },
+  "why": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:why",
+        "stream": false
+      }
+    ]
+  },
+  "wide": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:wide",
+        "stream": false
+      }
+    ]
+  },
+  "will": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:will",
+        "stream": false
+      }
+    ]
+  },
+  "with": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:with",
+        "stream": false
+      }
+    ]
+  },
+  "without": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:without",
+        "stream": false
+      }
+    ]
+  },
+  "wood": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:wood",
+        "stream": false
+      }
+    ]
+  },
+  "word": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:word",
+        "stream": false
+      }
+    ]
+  },
+  "work": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:work",
+        "stream": false
+      }
+    ]
+  },
+  "world": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:world",
+        "stream": false
+      }
+    ]
+  },
+  "worst": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:worst",
+        "stream": false
+      }
+    ]
+  },
+  "would": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:would",
+        "stream": false
+      }
+    ]
+  },
+  "wrong": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:wrong",
+        "stream": false
+      }
+    ]
+  },
+  "xi": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:xi",
+        "stream": false
+      }
+    ]
+  },
+  "xmas_bouncyballs": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:xmas_bouncyballs",
+        "stream": false
+      }
+    ]
+  },
+  "xmas_epsilon11": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:xmas_epsilon11",
+        "stream": false
+      }
+    ]
+  },
+  "xmas_hasentered": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:xmas_hasentered",
+        "stream": false
+      }
+    ]
+  },
+  "xmas_jinglebells": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:xmas_jinglebells",
+        "stream": false
+      }
+    ]
+  },
+  "xmas_scpsubjects": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:xmas_scpsubjects",
+        "stream": false
+      }
+    ]
+  },
+  "year": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:year",
+        "stream": false
+      }
+    ]
+  },
+  "yellow": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:yellow",
+        "stream": false
+      }
+    ]
+  },
+  "yes": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:yes",
+        "stream": false
+      }
+    ]
+  },
+  "yesterday": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:yesterday",
+        "stream": false
+      }
+    ]
+  },
+  "yet": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:yet",
+        "stream": false
+      }
+    ]
+  },
+  "you": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:you",
+        "stream": false
+      }
+    ]
+  },
+  "your": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:your",
+        "stream": false
+      }
+    ]
+  },
+  "zeta": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:zeta",
+        "stream": false
+      }
+    ]
+  },
+  "zone": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:zone",
+        "stream": false
+      }
+    ]
+  },
+  "c.a.s.s.i.e": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:central_autonomic_service_system_for_internal_emergencies",
+        "stream": false
+      }
+    ]
+  },
+  "command": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:command",
+        "stream": false
+      },
+      {
+        "name": "cassie:command2",
+        "stream": false
+      }
+    ]
+  },
+  "project": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:project",
+        "stream": false
+      },
+      {
+        "name": "cassie:project2",
+        "stream": false
+      }
+    ]
+  },
+  "pre": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:pre_",
+        "stream": false
+      }
+    ]
+  },
+  "pro": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:pro_",
+        "stream": false
+      }
+    ]
+  },
+  "post": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:post_",
+        "stream": false
+      }
+    ]
+  },
+  "the": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:the_consonant",
+        "stream": false
+      },
+      {
+        "name": "cassie:the_vowel",
+        "stream": false
+      }
+    ]
+  },
+  "all_generators_engaged": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:all_generators_engaged",
+        "stream": false
+      }
+    ]
+  },
+  "all_remaining_personnel": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:all_remaining_personnel",
+        "stream": false
+      }
+    ]
+  },
+  "anti": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:anti_",
+        "stream": false
+      }
+    ]
+  },
+  "bytes": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:bytes",
+        "stream": false
+      }
+    ]
+  },
+  "has_entered_the_facillity": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:has_entered_the_facility",
+        "stream": false
+      }
+    ]
+  },
+  "nine_tailed_fox": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:nine_tailed_fox",
+        "stream": false
+      }
+    ]
+  },
+  "stay": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:stay",
+        "stream": false
+      }
+    ]
+  },
+  "step": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:step",
+        "stream": false
+      }
+    ]
+  }
+}
