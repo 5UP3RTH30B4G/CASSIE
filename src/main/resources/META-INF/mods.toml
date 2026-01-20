@@ -4,7 +4,7 @@ license="MIT License"
 
 [[mods]]
 modId="cassie"
-version="0.1.0.3"
+version="0.1.1"
 displayName="C.A.S.S.I.E (SCP:SL TTS)"
 credits="SCP:SL"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/cassie"

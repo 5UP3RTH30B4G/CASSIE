@@ -4,6 +4,9 @@ import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.mojang.brigadier.Command;
 import com.mojang.brigadier.arguments.StringArgumentType;
+import com.mojang.brigadier.context.CommandContext;
+import com.mojang.brigadier.suggestion.Suggestions;
+import com.mojang.brigadier.suggestion.SuggestionsBuilder;
 import net.minecraft.command.CommandSource;
 import net.minecraft.command.Commands;
 import net.minecraft.entity.player.ServerPlayerEntity;
@@ -19,6 +22,7 @@ import net.minecraftforge.fml.server.ServerLifecycleHooks;
 import net.minecraft.network.play.server.SStopSoundPacket;
 
 import java.io.InputStreamReader;
+import java.util.Locale;
 import net.minecraft.util.text.StringTextComponent;
 import java.util.Collection;
 import java.util.HashMap;
@@ -27,6 +31,7 @@ import java.util.Queue;
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.List;
 import java.util.ArrayList;
+import java.util.concurrent.CompletableFuture;
 
 @Mod.EventBusSubscriber
 public class CassieCommand {
@@ -57,12 +62,6 @@ public class CassieCommand {
         player.sendStatusMessage(new StringTextComponent(out), true);
     }
 
-    private static void displayActionBarAll(Collection<ServerPlayerEntity> players, String message) {
-        for (ServerPlayerEntity p : players) {
-            displayActionBar(p, message);
-        }
-    }
-
     // Send a chat message (keeps color codes/prefix)
     private static void sendChat(ServerPlayerEntity player, String message) {
         if (player == null) return;
@@ -71,17 +70,28 @@ public class CassieCommand {
             // sendMessage requires a UUID; use player's unique id
             player.sendMessage(new StringTextComponent(out), player.getUniqueID());
         } catch (NoSuchMethodError e) {
+            // fallback: use status message if sendMessage signature differs
+            player.sendStatusMessage(new StringTextComponent(out), false);
         }
     }
 
     private static void sendToPlayer(ServerPlayerEntity player, String message) {
+        if (player == null) return;
         if (CassieConfig.isUseActionBar()) displayActionBar(player, message);
         else sendChat(player, message);
     }
 
+    // Envoie directement le message à tous les joueurs du serveur (ignore la collection fournie si possible)
     private static void sendToAll(Collection<ServerPlayerEntity> players, String message) {
-        for (ServerPlayerEntity p : players) {
-            sendToPlayer(p, message);
+        if (ServerLifecycleHooks.getCurrentServer() != null) {
+            for (ServerPlayerEntity p : ServerLifecycleHooks.getCurrentServer().getPlayerList().getPlayers()) {
+                sendToPlayer(p, message);
+            }
+        } else {
+            // fallback si on n'a pas de serveur global (utilise la collection fournie)
+            for (ServerPlayerEntity p : players) {
+                sendToPlayer(p, message);
+            }
         }
     }
 
@@ -194,13 +204,70 @@ public class CassieCommand {
         }
     }
 
+    // Method for suggestions of available voice lines
+    private static CompletableFuture<Suggestions> suggestWords(CommandContext<CommandSource> context, SuggestionsBuilder builder) {
+        String input = builder.getInput();
+        // Extract just the argument part (after "cassie " or "cassiesl ")
+        int commandEnd = Math.max(input.indexOf("cassie ") + 7, input.indexOf("cassiesl ") + 9);
+        if (commandEnd <= 7) commandEnd = input.length(); // fallback if not found
+        
+        String currentText = input.length() > commandEnd ? input.substring(commandEnd) : "";
+        int lastSpaceInCurrent = currentText.lastIndexOf(' ');
+        String prefix = lastSpaceInCurrent >= 0 ? currentText.substring(0, lastSpaceInCurrent + 1) : "";
+        String lastWord = lastSpaceInCurrent >= 0 ? currentText.substring(lastSpaceInCurrent + 1) : currentText;
+        
+        String remaining = lastWord.toLowerCase(Locale.ROOT);
+        // Suggest all available words that start with the current partial word, preserving previous words
+        wordDurations.keySet().stream()
+            .filter(word -> word.toLowerCase(Locale.ROOT).startsWith(remaining))
+            .sorted()
+            .forEach(word -> builder.suggest(prefix + word));
+        return builder.buildFuture();
+    }
+
     @SubscribeEvent
     public static void onRegisterCommand(RegisterCommandsEvent event) {
+        // Command to list available voice lines
+        event.getDispatcher().register(
+            Commands.literal("cassiehelp")
+                .executes(context -> {
+                    ServerPlayerEntity player = null;
+                    if (context.getSource().getEntity() instanceof ServerPlayerEntity) {
+                        player = (ServerPlayerEntity) context.getSource().getEntity();
+                    }
+                    
+                    List<String> words = new ArrayList<>(wordDurations.keySet());
+                    words.sort(String::compareTo);
+                    
+                    // Group words for display (max 50 chars per line)
+                    StringBuilder sb = new StringBuilder();
+                    sb.append("\u00A79=== CASSIE VOICE LINES ===\u00A7r\n");
+                    int charCount = 0;
+                    for (String word : words) {
+                        if (charCount + word.length() + 1 > 50) {
+                            sb.append("\n");
+                            charCount = 0;
+                        }
+                        if (charCount > 0) sb.append(" ");
+                        sb.append(word);
+                        charCount += word.length() + 1;
+                    }
+                    
+                    if (player != null) {
+                        player.sendMessage(new StringTextComponent(sb.toString()), player.getUniqueID());
+                    }
+                    logInfo("Available voice lines: " + words.size());
+                    return Command.SINGLE_SUCCESS;
+                })
+        );
+
         event.getDispatcher().register(
             Commands.literal("cassie")
                 .then(Commands.argument("text", StringArgumentType.greedyString())
+                    .suggests(CassieCommand::suggestWords)
                     .executes(context -> {
-                        queue.add(new Announcement(context.getSource(), StringArgumentType.getString(context, "text"), true));
+                        String txt = StringArgumentType.getString(context, "text").toLowerCase(Locale.ROOT);
+                        queue.add(new Announcement(context.getSource(), txt, true));
                         startQueueProcessor();
                         return Command.SINGLE_SUCCESS;
                     })
@@ -210,8 +277,10 @@ public class CassieCommand {
         event.getDispatcher().register(
             Commands.literal("cassiesl")
                 .then(Commands.argument("text", StringArgumentType.greedyString())
+                    .suggests(CassieCommand::suggestWords)
                     .executes(context -> {
-                        queue.add(new Announcement(context.getSource(), StringArgumentType.getString(context, "text"), false));
+                        String txt = StringArgumentType.getString(context, "text").toLowerCase(Locale.ROOT);
+                        queue.add(new Announcement(context.getSource(), txt, false));
                         startQueueProcessor();
                         return Command.SINGLE_SUCCESS;
                     })

@@ -745,7 +745,6 @@ public class CassieModElements {
 		sounds.put(new ResourceLocation("cassie", "query"), new net.minecraft.util.SoundEvent(new ResourceLocation("cassie", "query")));
 		sounds.put(new ResourceLocation("cassie", "question"), new net.minecraft.util.SoundEvent(new ResourceLocation("cassie", "question")));
 		sounds.put(new ResourceLocation("cassie", "questioning"), new net.minecraft.util.SoundEvent(new ResourceLocation("cassie", "questioning")));
-		sounds.put(new ResourceLocation("cassie", "r"), new net.minecraft.util.SoundEvent(new ResourceLocation("cassie", "r")));
 		sounds.put(new ResourceLocation("cassie", "radiation"), new net.minecraft.util.SoundEvent(new ResourceLocation("cassie", "radiation")));
 		sounds.put(new ResourceLocation("cassie", "radio"), new net.minecraft.util.SoundEvent(new ResourceLocation("cassie", "radio")));
 		sounds.put(new ResourceLocation("cassie", "rank"), new net.minecraft.util.SoundEvent(new ResourceLocation("cassie", "rank")));
@@ -1030,6 +1029,8 @@ public class CassieModElements {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("cassie", "nine_tailed_fox")));
 		sounds.put(new ResourceLocation("cassie", "stay"), new net.minecraft.util.SoundEvent(new ResourceLocation("cassie", "stay")));
 		sounds.put(new ResourceLocation("cassie", "step"), new net.minecraft.util.SoundEvent(new ResourceLocation("cassie", "step")));
+		sounds.put(new ResourceLocation("cassie", "r"), new net.minecraft.util.SoundEvent(new ResourceLocation("cassie", "r")));
+		sounds.put(new ResourceLocation("cassie", "romeo"), new net.minecraft.util.SoundEvent(new ResourceLocation("cassie", "romeo")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("cassie").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

@@ -6191,15 +6191,6 @@
       }
     ]
   },
-  "r": {
-    "category": "neutral",
-    "sounds": [
-      {
-        "name": "cassie:r",
-        "stream": false
-      }
-    ]
-  },
   "radiation": {
     "category": "neutral",
     "sounds": [
@@ -8656,6 +8647,24 @@
     "sounds": [
       {
         "name": "cassie:step",
+        "stream": false
+      }
+    ]
+  },
+  "r": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:_r",
+        "stream": false
+      }
+    ]
+  },
+  "romeo": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "cassie:romeo",
         "stream": false
       }
     ]
